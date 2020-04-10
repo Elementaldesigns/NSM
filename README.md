@@ -2,12 +2,6 @@
 
 Social media site that works for gamers and content creators
 
-## General idea
-	- verified accounts to reduce scams from influencers
-	- Game forums for certain games. (call of duty, overwatch, ect)
-	- forums for new players to help them learn how to play games
-	- static menu bar (left side)
-
 ## Planned Features
 
 ### Names
@@ -52,5 +46,12 @@ Social media site that works for gamers and content creators
 ## Future Features
 	- custom colour schemes
 	- game ranks
+
+## General ideas
+	- verified accounts to reduce scams from influencers
+	- Game forums for certain games. (call of duty, overwatch, ect)
+	- forums for new players to help them learn how to play games
+	-LFT/LFP pages
+	-static menu bar (left side)
 
 
