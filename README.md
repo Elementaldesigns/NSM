@@ -52,6 +52,7 @@ Social media site that works for gamers and content creators
 	- Game forums for certain games. (call of duty, overwatch, ect)
 	- forums for new players to help them learn how to play games
 	-LFT/LFP pages
+	-team pages (seperate from group chats or dm's this is a page that can be run by multiple people)
 	-static menu bar (left side)
 
 
